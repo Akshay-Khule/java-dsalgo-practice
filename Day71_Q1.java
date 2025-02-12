@@ -9,7 +9,7 @@ public class Day71_Q1 {
 
 
 		
-		ListNode B = new ListNode(3);
+		ListNode B = new ListNode(5);
 
 
 
