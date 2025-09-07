@@ -8,7 +8,7 @@ public class Day48_Q3_2nd {
 
 	public static void main(String[] args) {
 		//		A = 5
-		//		B = [[1, 2, 10], [2, 3, 20], [2, 5, 25]]
+		//		B = [[1, 2, 10], [2, 3, 39 20], [2, 5, 25]]
 		ArrayList<ArrayList<Integer>> B = new ArrayList<ArrayList<Integer>>();
 		ArrayList<Integer> a1 = new ArrayList<Integer>();
 		a1.add(1);
@@ -50,3 +50,4 @@ public class Day48_Q3_2nd {
 		
 	}
 }
+
