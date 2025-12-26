@@ -40,7 +40,7 @@ public class Day47_Q4 {
 	}
 	
 	public static ArrayList<Interval> insert(ArrayList<Interval> intervals, Interval newInterval) {
-		ArrayList<Interval> ans = new ArrayList<Interval>();
+		ArrayList<Interval> ans =  new ArrayList<Interval>();
 		
 		int x=intervals.get(0).start;
 		int y=intervals.get(0).end;
@@ -67,4 +67,5 @@ public class Day47_Q4 {
 	}
 }
 	
+
 
